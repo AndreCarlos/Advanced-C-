@@ -1,0 +1,9 @@
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\03_Eventos\bin\Debug\03_Eventos.exe.config
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\03_Eventos\bin\Debug\03_Eventos.exe
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\03_Eventos\bin\Debug\03_Eventos.pdb
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\03_Eventos\obj\Debug\03_Eventos.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\03_Eventos\obj\Debug\_03_Eventos.Properties.Resources.resources
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\03_Eventos\obj\Debug\03_Eventos.csproj.GenerateResource.cache
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\03_Eventos\obj\Debug\03_Eventos.exe
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\03_Eventos\obj\Debug\03_Eventos.pdb
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\03_Eventos\obj\Debug\_03_Eventos.Form1.resources

@@ -1,0 +1,8 @@
+D:\CSharpAvancado\Solution01SerializeXML\Usuario\bin\Debug\netstandard2.0\Usuario.deps.json
+D:\CSharpAvancado\Solution01SerializeXML\Usuario\bin\Debug\netstandard2.0\Usuario.dll
+D:\CSharpAvancado\Solution01SerializeXML\Usuario\bin\Debug\netstandard2.0\Usuario.pdb
+D:\CSharpAvancado\Solution01SerializeXML\Usuario\obj\Debug\netstandard2.0\Usuario.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution01SerializeXML\Usuario\obj\Debug\netstandard2.0\Usuario.AssemblyInfoInputs.cache
+D:\CSharpAvancado\Solution01SerializeXML\Usuario\obj\Debug\netstandard2.0\Usuario.AssemblyInfo.cs
+D:\CSharpAvancado\Solution01SerializeXML\Usuario\obj\Debug\netstandard2.0\Usuario.dll
+D:\CSharpAvancado\Solution01SerializeXML\Usuario\obj\Debug\netstandard2.0\Usuario.pdb

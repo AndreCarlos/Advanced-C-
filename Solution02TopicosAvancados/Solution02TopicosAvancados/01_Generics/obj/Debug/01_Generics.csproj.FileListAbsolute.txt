@@ -1,0 +1,6 @@
+D:\CSharpAvancado\Solution02TopicosAvancados\Solution02TopicosAvancados\01_Generics\obj\Debug\01_Generics.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution02TopicosAvancados\Solution02TopicosAvancados\01_Generics\bin\Debug\01_Generics.exe.config
+D:\CSharpAvancado\Solution02TopicosAvancados\Solution02TopicosAvancados\01_Generics\bin\Debug\01_Generics.exe
+D:\CSharpAvancado\Solution02TopicosAvancados\Solution02TopicosAvancados\01_Generics\bin\Debug\01_Generics.pdb
+D:\CSharpAvancado\Solution02TopicosAvancados\Solution02TopicosAvancados\01_Generics\obj\Debug\01_Generics.exe
+D:\CSharpAvancado\Solution02TopicosAvancados\Solution02TopicosAvancados\01_Generics\obj\Debug\01_Generics.pdb

@@ -1,0 +1,6 @@
+D:\CSharpAvancado\Solution01LINQ\01_LINQ\04_LINQ_JOIN\04_LINQ_JOIN\bin\Debug\04_LINQ_JOIN.exe.config
+D:\CSharpAvancado\Solution01LINQ\01_LINQ\04_LINQ_JOIN\04_LINQ_JOIN\bin\Debug\04_LINQ_JOIN.exe
+D:\CSharpAvancado\Solution01LINQ\01_LINQ\04_LINQ_JOIN\04_LINQ_JOIN\bin\Debug\04_LINQ_JOIN.pdb
+D:\CSharpAvancado\Solution01LINQ\01_LINQ\04_LINQ_JOIN\04_LINQ_JOIN\obj\Debug\04_LINQ_JOIN.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution01LINQ\01_LINQ\04_LINQ_JOIN\04_LINQ_JOIN\obj\Debug\04_LINQ_JOIN.exe
+D:\CSharpAvancado\Solution01LINQ\01_LINQ\04_LINQ_JOIN\04_LINQ_JOIN\obj\Debug\04_LINQ_JOIN.pdb

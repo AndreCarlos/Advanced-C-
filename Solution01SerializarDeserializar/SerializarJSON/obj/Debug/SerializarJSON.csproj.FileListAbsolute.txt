@@ -1,0 +1,9 @@
+D:\CSharpAvancado\Solution01SerializeXML\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+D:\CSharpAvancado\Solution01SerializeXML\SerializarJSON\bin\Debug\SerializarJSON.exe
+D:\CSharpAvancado\Solution01SerializeXML\SerializarJSON\bin\Debug\SerializarJSON.pdb
+D:\CSharpAvancado\Solution01SerializeXML\SerializarJSON\bin\Debug\Usuario.dll
+D:\CSharpAvancado\Solution01SerializeXML\SerializarJSON\bin\Debug\Usuario.pdb
+D:\CSharpAvancado\Solution01SerializeXML\SerializarJSON\obj\Debug\SerializarJSON.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution01SerializeXML\SerializarJSON\obj\Debug\SerializarJSON.csproj.CopyComplete
+D:\CSharpAvancado\Solution01SerializeXML\SerializarJSON\obj\Debug\SerializarJSON.exe
+D:\CSharpAvancado\Solution01SerializeXML\SerializarJSON\obj\Debug\SerializarJSON.pdb

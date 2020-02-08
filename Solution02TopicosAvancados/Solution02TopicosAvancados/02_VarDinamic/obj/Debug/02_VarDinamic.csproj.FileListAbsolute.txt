@@ -1,0 +1,6 @@
+D:\CSharpAvancado\Solution02TopicosAvancados\Solution02TopicosAvancados\02_VarDinamic\bin\Debug\02_VarDinamic.exe.config
+D:\CSharpAvancado\Solution02TopicosAvancados\Solution02TopicosAvancados\02_VarDinamic\bin\Debug\02_VarDinamic.exe
+D:\CSharpAvancado\Solution02TopicosAvancados\Solution02TopicosAvancados\02_VarDinamic\bin\Debug\02_VarDinamic.pdb
+D:\CSharpAvancado\Solution02TopicosAvancados\Solution02TopicosAvancados\02_VarDinamic\obj\Debug\02_VarDinamic.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution02TopicosAvancados\Solution02TopicosAvancados\02_VarDinamic\obj\Debug\02_VarDinamic.exe
+D:\CSharpAvancado\Solution02TopicosAvancados\Solution02TopicosAvancados\02_VarDinamic\obj\Debug\02_VarDinamic.pdb

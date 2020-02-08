@@ -1,0 +1,6 @@
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\02_Delegates\obj\Debug\02_Delegates.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\02_Delegates\bin\Debug\02_Delegates.exe.config
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\02_Delegates\bin\Debug\02_Delegates.exe
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\02_Delegates\bin\Debug\02_Delegates.pdb
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\02_Delegates\obj\Debug\02_Delegates.exe
+D:\CSharpAvancado\Solution03DelegatesEventos\Solution03 - Delegates e Eventos\02_Delegates\obj\Debug\02_Delegates.pdb

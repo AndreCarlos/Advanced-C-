@@ -1,0 +1,9 @@
+D:\CSharpAvancado\Solution01SerializeXML\DeserializarXML\bin\Debug\DeserializarXML.exe.config
+D:\CSharpAvancado\Solution01SerializeXML\DeserializarXML\bin\Debug\DeserializarXML.exe
+D:\CSharpAvancado\Solution01SerializeXML\DeserializarXML\bin\Debug\DeserializarXML.pdb
+D:\CSharpAvancado\Solution01SerializeXML\DeserializarXML\bin\Debug\Usuario.dll
+D:\CSharpAvancado\Solution01SerializeXML\DeserializarXML\bin\Debug\Usuario.pdb
+D:\CSharpAvancado\Solution01SerializeXML\DeserializarXML\obj\Debug\DeserializarXML.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution01SerializeXML\DeserializarXML\obj\Debug\DeserializarXML.csproj.CopyComplete
+D:\CSharpAvancado\Solution01SerializeXML\DeserializarXML\obj\Debug\DeserializarXML.exe
+D:\CSharpAvancado\Solution01SerializeXML\DeserializarXML\obj\Debug\DeserializarXML.pdb

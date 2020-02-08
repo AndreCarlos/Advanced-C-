@@ -1,0 +1,6 @@
+D:\CSharpAvancado\Solution01LINQ\01_LINQ\03_LINQ_OBJECT\obj\Debug\03_LINQ_OBJECT.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution01LINQ\01_LINQ\03_LINQ_OBJECT\bin\Debug\03_LINQ_OBJECT.exe.config
+D:\CSharpAvancado\Solution01LINQ\01_LINQ\03_LINQ_OBJECT\bin\Debug\03_LINQ_OBJECT.exe
+D:\CSharpAvancado\Solution01LINQ\01_LINQ\03_LINQ_OBJECT\bin\Debug\03_LINQ_OBJECT.pdb
+D:\CSharpAvancado\Solution01LINQ\01_LINQ\03_LINQ_OBJECT\obj\Debug\03_LINQ_OBJECT.exe
+D:\CSharpAvancado\Solution01LINQ\01_LINQ\03_LINQ_OBJECT\obj\Debug\03_LINQ_OBJECT.pdb
