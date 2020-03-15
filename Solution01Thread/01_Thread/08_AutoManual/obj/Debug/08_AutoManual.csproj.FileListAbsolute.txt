@@ -1,0 +1,6 @@
+D:\CSharpAvancado\Solution01Thread\01_Thread\08_AutoManual\bin\Debug\08_AutoManual.exe.config
+D:\CSharpAvancado\Solution01Thread\01_Thread\08_AutoManual\bin\Debug\08_AutoManual.exe
+D:\CSharpAvancado\Solution01Thread\01_Thread\08_AutoManual\bin\Debug\08_AutoManual.pdb
+D:\CSharpAvancado\Solution01Thread\01_Thread\08_AutoManual\obj\Debug\08_AutoManual.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution01Thread\01_Thread\08_AutoManual\obj\Debug\08_AutoManual.exe
+D:\CSharpAvancado\Solution01Thread\01_Thread\08_AutoManual\obj\Debug\08_AutoManual.pdb

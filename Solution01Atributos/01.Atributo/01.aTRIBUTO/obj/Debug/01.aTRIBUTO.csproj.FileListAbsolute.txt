@@ -1,0 +1,6 @@
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\01.aTRIBUTO\bin\Debug\01.aTRIBUTO.exe.config
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\01.aTRIBUTO\bin\Debug\01.aTRIBUTO.exe
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\01.aTRIBUTO\bin\Debug\01.aTRIBUTO.pdb
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\01.aTRIBUTO\obj\Debug\01.aTRIBUTO.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\01.aTRIBUTO\obj\Debug\01.aTRIBUTO.exe
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\01.aTRIBUTO\obj\Debug\01.aTRIBUTO.pdb

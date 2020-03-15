@@ -1,0 +1,11 @@
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\02.Validacao\obj\Debug\02.Validacao.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\02.Validacao\obj\Debug\_02.Validacao.Idiomas.Linguagem.resources
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\02.Validacao\obj\Debug\_02.Validacao.Idiomas.Linguagem.pt.resources
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\02.Validacao\obj\Debug\02.Validacao.csproj.GenerateResource.cache
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\02.Validacao\bin\Debug\02.Validacao.exe.config
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\02.Validacao\bin\Debug\02.Validacao.exe
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\02.Validacao\bin\Debug\02.Validacao.pdb
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\02.Validacao\bin\Debug\pt\02.Validacao.resources.dll
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\02.Validacao\obj\Debug\pt\02.Validacao.resources.dll
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\02.Validacao\obj\Debug\02.Validacao.exe
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\02.Validacao\obj\Debug\02.Validacao.pdb

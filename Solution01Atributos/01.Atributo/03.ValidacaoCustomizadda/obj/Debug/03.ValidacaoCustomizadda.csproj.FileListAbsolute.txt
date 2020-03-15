@@ -1,0 +1,6 @@
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\03.ValidacaoCustomizadda\obj\Debug\03.ValidacaoCustomizadda.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\03.ValidacaoCustomizadda\bin\Debug\03.ValidacaoCustomizadda.exe.config
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\03.ValidacaoCustomizadda\bin\Debug\03.ValidacaoCustomizadda.exe
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\03.ValidacaoCustomizadda\bin\Debug\03.ValidacaoCustomizadda.pdb
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\03.ValidacaoCustomizadda\obj\Debug\03.ValidacaoCustomizadda.exe
+D:\CSharpAvancado\Solution01Atributos\01.Atributo\03.ValidacaoCustomizadda\obj\Debug\03.ValidacaoCustomizadda.pdb

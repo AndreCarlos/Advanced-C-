@@ -1,0 +1,6 @@
+D:\CSharpAvancado\Solution01Thread\01_Thread\05_ThreadSafe\bin\Debug\05_ThreadSafe.exe.config
+D:\CSharpAvancado\Solution01Thread\01_Thread\05_ThreadSafe\bin\Debug\05_ThreadSafe.exe
+D:\CSharpAvancado\Solution01Thread\01_Thread\05_ThreadSafe\bin\Debug\05_ThreadSafe.pdb
+D:\CSharpAvancado\Solution01Thread\01_Thread\05_ThreadSafe\obj\Debug\05_ThreadSafe.csprojAssemblyReference.cache
+D:\CSharpAvancado\Solution01Thread\01_Thread\05_ThreadSafe\obj\Debug\05_ThreadSafe.exe
+D:\CSharpAvancado\Solution01Thread\01_Thread\05_ThreadSafe\obj\Debug\05_ThreadSafe.pdb
